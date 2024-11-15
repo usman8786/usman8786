@@ -32,9 +32,8 @@
 - **React Development**: Crafting responsive frontend applications using React.js.
 - **Backend Development**: Building robust and scalable projects using Node.js and Express.js.
 
-## 🏗️ Notable Projects
-- **Student Management System**: An API-based solution built on Frappe for handling student data, including custom validations and CNIC formatting.
-- **Teacher Data API**: An efficient data retrieval system using Frappe, fetching and updating teacher information with caching mechanisms.
+## 🤝 Contributions
+I actively encourage contributions! Feel free to submit a **pull request** for any improvements or new features. Your input is always welcomed, and I’m open to collaborating on projects and enhancements.
 
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/usman8786)
