@@ -12,10 +12,12 @@
 ### Backend
 - Python
 - Frappe Framework
+- NodeJS
 - RESTful APIs
 
 ### Databases
 - MySQL
+- MongoDB
 - PostgreSQL
 
 ### Tools & Platforms
@@ -28,6 +30,7 @@
 - **Frappe Customizations**: Creating custom reports, validations, and API integrations for various business needs.
 - **Data Validation**: Building robust data validation mechanisms for student and teacher management systems.
 - **React Development**: Crafting responsive frontend applications using React.
+- **Backend Development**: Building robust and scalable projects using Node.js and Express.js.
 
 ## 🏗️ Notable Projects
 - **Student Management System**: An API-based solution built on Frappe for handling student data, including custom validations and CNIC formatting.
