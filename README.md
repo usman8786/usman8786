@@ -32,9 +32,6 @@
 - **React Development**: Crafting responsive frontend applications using React.js.
 - **Backend Development**: Building robust and scalable projects using Node.js and Express.js.
 
-## 🤝 Contributions
-I actively encourage contributions! Feel free to submit a **pull request** for any improvements or new features. Your input is always welcomed, and I’m open to collaborating on projects and enhancements.
-
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/usman8786)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-usman111)
