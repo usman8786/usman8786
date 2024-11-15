@@ -38,8 +38,8 @@
 
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/usman8786)
-- [LinkedIn](https://www.linkedin.com/in/usman8786](https://www.linkedin.com/in/muhammad-usman111)) *(if you have one)*
-- Email: [usman.mushtaq8786@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/muhammad-usman111)
+- [Email](usman.mushtaq8786@gmail.com)
 
 ## 💬 Let's Collaborate!
 Feel free to reach out if you want to collaborate on projects related to Frappe, data validation, or anything JavaScript-related. I’m always open to learning new things and sharing knowledge.
