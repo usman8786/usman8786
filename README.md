@@ -1,4 +1,4 @@
-# Hi there, I'm Usman 👋
+# Hi there, I'm Muhammad Usman 👋
 
 🔭 I’m a **Full-Stack Developer** passionate about building efficient, scalable solutions and working with the **Frappe framework**. I love solving problems using **JavaScript**, **Python**, and various web technologies.
 
