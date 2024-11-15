@@ -29,9 +29,6 @@
 - **Data Validation**: Building robust data validation mechanisms for student and teacher management systems.
 - **React Development**: Crafting responsive frontend applications using React.
 
-## 📈 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman8786&show_icons=true&theme=radical)
-
 ## 🏗️ Notable Projects
 - **Student Management System**: An API-based solution built on Frappe for handling student data, including custom validations and CNIC formatting.
 - **Teacher Data API**: An efficient data retrieval system using Frappe, fetching and updating teacher information with caching mechanisms.
