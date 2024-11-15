@@ -1,18 +1,18 @@
 # Hi there, I'm Muhammad Usman 👋
 
-🔭 I’m a **Full-Stack Developer** passionate about building efficient, scalable solutions and working with the **Frappe framework**, **NodeJs** and **ReactJS**. I love solving problems using **JavaScript**, **Python**, and various web technologies.
+🔭 I’m a **Full-Stack Developer** passionate about building efficient, scalable solutions and working with the **Frappe framework**, **Node.js**, and **React.js**. I love solving problems using **JavaScript**, **Python**, and various web technologies.
 
 ## 🚀 My Tech Stack
 
 ### Frontend
-- JavaScript (Vanilla, React)
+- JavaScript (Vanilla, React.js)
 - HTML, CSS
 - Bootstrap, Tailwind CSS
 
 ### Backend
 - Python
 - Frappe Framework
-- NodeJS
+- Node.js
 - RESTful APIs
 
 ### Databases
@@ -29,7 +29,7 @@
 ## 🛠️ What I’ve Been Working On
 - **Frappe Customizations**: Creating custom reports, validations, and API integrations for various business needs.
 - **Data Validation**: Building robust data validation mechanisms for student and teacher management systems.
-- **React Development**: Crafting responsive frontend applications using React.
+- **React Development**: Crafting responsive frontend applications using React.js.
 - **Backend Development**: Building robust and scalable projects using Node.js and Express.js.
 
 ## 🏗️ Notable Projects
@@ -39,11 +39,7 @@
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/usman8786)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-usman111)
-- [Email](usman.mushtaq8786@gmail.com)
+- [Email](mailto:usman.mushtaq8786@gmail.com)
 
 ## 💬 Let's Collaborate!
 Feel free to reach out if you want to collaborate on projects related to Frappe, data validation, or anything JavaScript-related. I’m always open to learning new things and sharing knowledge.
-
----
-
-⭐️ **Fun Fact**: When I'm not coding, you can find me exploring new tech trends or tweaking configurations in my Frappe setup.
