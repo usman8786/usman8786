@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer passionate about building scalable web applications, open-source tools, and business automation solutions.
 
-I primarily work with the **Frappe Framework**, **ERPNext**, **Node.js**, **React.js**, and **Python**, with a strong focus on backend architecture, API development, developer tooling, and modern AI-powered workflows.
+I primarily work with the **Frappe/ERPNext**, **Node.js**, **React.js**, and **Python**, with a strong focus on backend architecture, API development, developer tooling, and modern AI-powered workflows.
 
 ---
 
@@ -25,8 +25,7 @@ I primarily work with the **Frappe Framework**, **ERPNext**, **Node.js**, **Reac
 ### Backend
 - Node.js
 - Express.js
-- Frappe Framework
-- ERPNext
+- Frappe/ERPNext
 - REST APIs
 - Socket.IO
 
@@ -43,6 +42,7 @@ I primarily work with the **Frappe Framework**, **ERPNext**, **Node.js**, **Reac
 - Cloudflare
 - Firebase
 - Google Play Console
+- MinIO
 - GitHub Actions
 
 ### Amazon Web Services
