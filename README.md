@@ -35,19 +35,25 @@ I primarily work with the Frappe Framework, JavaScript ecosystem, and Python whi
 - MySQL
 - PostgreSQL
 - MongoDB
-- Redis
+- Amazon DynamoDB
 
 ### DevOps & Cloud
 - Linux (Ubuntu)
 - Nginx
-- AWS EC2
-- AWS S3
-- Amazon SES
-- Amazon Cognito
 - Cloudflare
 - Firebase
 - Google Play Console
 - GitHub Actions
+
+### Amazon Web Services
+- EC2
+- S3
+- SES
+- Cognito
+- Route 53
+- Lamda
+- Serverless
+- Elastic Beanstalk
 
 ### Tools
 - Git
@@ -57,6 +63,7 @@ I primarily work with the Frappe Framework, JavaScript ecosystem, and Python whi
 - Cursor IDE
 - Antigravity IDE
 - Postman
+- Jira/Trello
 
 ---
 
@@ -98,11 +105,6 @@ I primarily work with the Frappe Framework, JavaScript ecosystem, and Python whi
 ---
 
 ## 📈 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usman8786&show_icons=true&theme=github_dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman8786&layout=compact&theme=github_dark&hide_border=true" height="165">
-</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usman8786&theme=github-dark&hide_border=true">
