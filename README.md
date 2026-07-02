@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Usman 👋
 
-Full-Stack Software Engineer focused on building scalable web applications, open-source tools, and business solutions.
+Full-Stack Software Engineer passionate about building scalable web applications, open-source tools, and business automation solutions.
 
-I primarily work with the Frappe Framework, JavaScript ecosystem, and Python while building products that solve real-world problems. I enjoy backend architecture, API design, automation, and developer tooling.
+I primarily work with the **Frappe Framework**, **ERPNext**, **Node.js**, **React.js**, and **Python**, with a strong focus on backend architecture, API development, developer tooling, and modern AI-powered workflows.
 
 ---
 
