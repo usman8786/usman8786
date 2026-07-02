@@ -18,9 +18,7 @@ I primarily work with the **Frappe/ERPNext**, **Node.js**, **React.js**, and **P
 ### Frontend
 - React.js
 - Next.js
-- Bootstrap
-- Tailwind CSS
-- jQuery
+- Bootstrap/Tailwind CSS/jQuery
 
 ### Backend
 - Node.js
