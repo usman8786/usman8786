@@ -1,41 +1,121 @@
-# Hi there, I'm Muhammad Usman 👋
+# Hi, I'm Muhammad Usman 👋
 
-🔭 I’m a **Full-Stack Developer** passionate about building efficient, scalable solutions and working with the **Frappe framework**, **Node.js**, and **React.js**. I love solving problems using **JavaScript**, **Python**, and various web technologies.
+Full-Stack Software Engineer focused on building scalable web applications, open-source tools, and business solutions.
 
-## 🚀 My Tech Stack
+I primarily work with the Frappe Framework, JavaScript ecosystem, and Python while building products that solve real-world problems. I enjoy backend architecture, API design, automation, and developer tooling.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- JavaScript (ES6+)
+- Python
+- SQL
+- HTML5
+- CSS3
 
 ### Frontend
-- JavaScript (Vanilla, React.js)
-- HTML, CSS
-- Bootstrap, Tailwind CSS
+- React.js
+- Next.js
+- Bootstrap
+- Tailwind CSS
+- jQuery
 
 ### Backend
-- Python
-- Frappe Framework
 - Node.js
-- RESTful APIs
+- Express.js
+- Frappe Framework
+- ERPNext
+- REST APIs
+- Socket.IO
 
 ### Databases
+- MariaDB
 - MySQL
-- MongoDB
 - PostgreSQL
+- MongoDB
+- Redis
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Docker
+### DevOps & Cloud
 - Linux (Ubuntu)
+- Nginx
+- AWS EC2
+- AWS S3
+- Amazon SES
+- Amazon Cognito
+- Cloudflare
+- Firebase
+- Google Play Console
+- GitHub Actions
 
-## 🛠️ What I’ve Been Working On
-- **Frappe Customizations**: Creating custom reports, validations, and API integrations for various business needs.
-- **Data Validation**: Building robust data validation mechanisms for student and teacher management systems.
-- **React Development**: Crafting responsive frontend applications using React.js.
-- **Backend Development**: Building robust and scalable projects using Node.js and Express.js.
+### Tools
+- Git
+- GitHub
+- GitLab
+- VS Code
+- Cursor IDE
+- Antigravity IDE
+- Postman
 
-## 🌐 Connect with Me
-- [GitHub Profile](https://github.com/usman8786)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-usman111)
-- [Email](mailto:usman.mushtaq8786@gmail.com)
+---
 
-## 💬 Let's Collaborate!
-Feel free to reach out if you want to collaborate on projects related to Frappe, data validation, or anything JavaScript-related. I’m always open to learning new things and sharing knowledge.
+## 💼 Areas of Expertise
+
+- Full-Stack Web Development
+- Frappe & ERPNext Custom App Development
+- REST API Design & Integration
+- Real-Time Applications (Socket.IO)
+- POS & Thermal Printer Integration (ESC/POS)
+- Authentication & Authorization (JWT/Cookies/Cognito)
+- Data Validation & Processing
+- Performance Optimization
+- Database Design
+- Open Source Development
+
+---
+
+## 🌱 Currently Exploring
+
+- AI Coding Agents
+- Large Language Models (LLMs)
+- Local AI Infrastructure
+- Multi-Agent Development Workflows
+- Distributed Systems
+- Payment Infrastructure
+- Frappe Database Drivers & Framework Internals
+
+---
+
+## 🚀 Featured Work
+
+- Open-source tools for the Frappe ecosystem
+- Siyaho (Tourism Platform) Ecosystem
+- ERPNext & Frappe custom applications
+- POS integrations with ESC/POS thermal printers
+- Business process automation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usman8786&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman8786&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usman8786&theme=github-dark&hide_border=true">
+</p>
+
+---
+
+## 🤝 Connect
+
+- GitHub: https://github.com/usman8786
+- LinkedIn: https://www.linkedin.com/in/muhammad-usman111
+- Email: usman.mushtaq8786@gmail.com
+
+---
+
+> "Build tools that make developers faster and businesses more efficient."
